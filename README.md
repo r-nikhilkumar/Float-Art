@@ -18,3 +18,7 @@ Python 3
 NumPy
 OpenCV
 With these steps and requirements, you can build your Air Canvas and bring your imagination to life by simply waving your finger in the air.
+
+## Demo
+
+![Air Canvas Demo](demo.gif)
